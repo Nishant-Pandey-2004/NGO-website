@@ -1,0 +1,120 @@
+hr {
+  width: 290px;
+  background: orangered;
+  height: 2px;
+  position: top;
+  float:center;
+}
+#section1 {
+  height: 100%;
+  background-image: url("detailsback.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#section2 {
+  margin-top: 10%;
+  height: 100%;
+}
+.para1 {
+  margin-top: 5%;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  line-height: 50px;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: justify;
+}
+.para2 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  line-height: 50px;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: justify;
+}
+.red {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: red;
+}
+.heading {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: black;
+}
+
+.post {
+  text-align: center;
+  font-weight: bold;
+  color:rgb(7, 7, 88);
+  text-decoration: none;
+}
+.thumbnail1 {
+  background-image: url("abstract-geometric-white-background-free-vector.jpg");
+}
+.heading2 {
+  padding-top: 5%;
+}
+#section3 {
+  height: 100%;
+}
+.cause {
+  margin-top: 5%;
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+  line-height: 5px;
+}
+.list {
+  margin-top: 5%;
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+  line-height: 5px;
+}
+.foot {
+  margin-bottom: 0%;
+}
+.btn {
+  background-color: rgb(121, 115, 111);
+  border: 5px solid rgb(121, 115, 111);
+  border-radius: 0%;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.nav {
+  padding-top: 5px;
+  font-weight: bold;
+  font-size:18px;
+  padding-top:50px;
+  align-items: center;
+  /* background-color: rgba(0,0,0,0.6); */
+  color:whitesmoke;
+}
+.slack{
+  color:red;
+}
+.hh{
+  color:orange;
+}
+.head{
+  font-size: 15px;
+}
+.el{
+  color:whitesmoke;
+}
+.font{
+  margin-top:20px;
+  font-size:25px;
+  font-family: 'Bangers', cursive;
+  /* background-color: rgb(255, 255, 255);
+  background-size: contain;
+  background-repeat: no-repeat; */
+
+}
+#section9{
+  padding-top: 10%;
+  height: 100%;
+  text-align: center;
+  font-size: 60px;
+}
+.i{
+  color:black;
+
+}

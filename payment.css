@@ -1,0 +1,65 @@
+hr {
+  width: 290px;
+  background: orangered;
+  height: 2px;
+  position: top;
+  float:center;
+}
+.foot {
+  margin-bottom: 0%;
+}
+table {
+  border: 2px solid black;
+  text-align: center;
+  width: 100%;
+  margin-top: 0%;
+}
+th {
+  padding: 10px;
+  border: 2px solid black;
+  font-size: 20px;
+  font-variant: small-caps;
+  font-weight: bold;
+  text-align: center;
+}
+td {
+  padding: 10px;
+  border: 2px solid black;
+  font-size: 15px;
+
+  font-weight: bold;
+  color:red;
+}
+.nav {
+  
+  font-weight: bold;
+  font-size:18px;
+  padding-top:25px;
+  align-items: center;
+  /* background-color: rgba(0,0,0,0.6); */
+  color:whitesmoke;
+}
+.slack{
+  color:red;
+}
+.hh{
+  color:orange;
+}
+.head{
+  font-size: 15px;
+}
+.el{
+  color:whitesmoke;
+}
+.font{
+  margin-top:20px;
+  font-size:25px;
+  font-family: 'Bangers', cursive;
+  /* background-color: rgb(255, 255, 255);
+  background-size: contain;
+  background-repeat: no-repeat; */
+
+}
+.foot{
+  margin-bottom: 0%;
+}
