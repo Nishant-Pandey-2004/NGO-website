@@ -76,7 +76,7 @@ hr {
   
 font-family: 'Monoton', cursive; */
 /* font-family: 'Niconne', cursive; */
-/* font-family: 'Rye', cursive;  */
+/*font-family: 'Rye', cursive;  */
 font-family: 'Fredericka the Great', cursive;
   
   color: black;
@@ -149,7 +149,7 @@ figcaption{
 }
 /* initives */
 .t1{
-  filter:brightness(70%);
+  filter:brightness(80%);
 }
 /* abput content */
 #next{
@@ -183,7 +183,7 @@ figcaption{
   
 }
 .p:hover{
-  filter:brightness(90%);
+  filter:brightness(92%);
   transform:scale(1.1);
 }
 .i{
